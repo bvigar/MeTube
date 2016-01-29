@@ -1,0 +1,106 @@
+div.message
+{
+	border: 1px dashed black;
+	padding: 1em;
+	margin: 1em;
+	background: #F7F7F7;
+	width: 50%;
+}
+
+.sort_header
+{
+	height: 50px;
+	margin-left: 225px;
+
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #522D80;
+}
+
+.list_title
+{
+	display:block;
+	position:relative;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size:38px;
+	font-weight:900;
+	left: 10%;
+}
+
+.sub_button
+{
+	display:inline;
+		
+}
+
+.nav_bar
+{
+	float: left;
+	width:225px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-right: 1px;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #522D80;
+}
+
+.nav_bar ul
+{
+	list-style-type:none;
+	margin:0;
+	padding-left: 30px;
+}
+
+.nav_bar a
+{
+	display: block;
+	height: 2em;
+	padding-left: 5px;
+	padding-top: 5px;
+
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.nav_bar li a:link, a:visited
+{
+	color: #F66733;
+}
+
+.nav_bar li a:hover, a:active
+{
+	background-color: #522D80;
+}
+
+.media_table td
+{
+	margin-top: 10px;
+	width: 480px;
+	padding-left: 15px;
+	border: 1px;
+	border-style: solid;
+	border-color: #000000; 
+}
+
+.media_table a
+{
+	display: inline;
+	height: 10em;
+	padding: 1em;
+
+	text-decoration: none;
+}
+
+.media_table a:hover
+{
+	background-color: #FFFFFF;
+}
+
+.media_table img
+{
+	display: inline;
+	height: 10em;
+}

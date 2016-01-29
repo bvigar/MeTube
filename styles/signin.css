@@ -1,0 +1,69 @@
+body
+{
+	margin: 0px;
+	font-family: Verdana; /* Clemson approves the use of this font */
+}
+
+.top_bar
+{
+	height: 3em;
+
+	background-color: #522D80;
+	border-bottom: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #F66733;
+}
+
+.top_bar img
+{
+	max-height: 3em; /* Contain the image with the top bar */
+	margin-left: 1em;
+	float: left;
+	display: inline-block;
+}
+
+#search_form
+{
+	margin-left: 10em;
+	width: 25em;
+	display: inline-block;
+	height: 3em;
+}
+
+#search_div
+{
+	height: 100%;
+}
+
+#search_text
+{
+	height: 2em;
+	width: 25em;
+	margin-top: .5em;
+}
+
+#search_button
+{
+	height: 70%;
+	width: 3.5em;
+}
+
+#create_form
+{
+	float: right;
+	height: 3em;
+	width: 7em;
+}
+
+#create_div
+{
+	height: 100%;
+}
+
+#create_button
+{
+	float: right;
+	margin-right: 1em;
+	margin-top: .5em;
+	height: 70%;
+}

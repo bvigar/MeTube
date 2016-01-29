@@ -1,0 +1,63 @@
+
+body
+{
+	font-family: Verdana;
+	height: 100%;
+}
+body
+{
+	font-family: Verdana;
+}
+
+
+.menu_bar
+{
+	height: 3em;
+	width: 100%;
+	overflow: hidden;
+	background-color: #FAA485;
+
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F66733;
+}
+
+.menu_bar img
+{
+	float: left;
+	max-height: 3em;
+	margin-left: 0.5em;
+}
+
+.menu_bar form
+{
+	display: inline;
+}
+
+.menu_bar input
+{
+	margin-top: 0.5em;
+}
+
+.menu_bar input[type="text"]
+{
+	height: 2em;
+	width: 400px;
+}
+
+.menu_bar input[type="submit"]
+{
+	height: 2.4em;
+}
+
+#search_form
+{
+	margin-left: 125px;
+}
+
+#signin_form input
+{
+	float: right;
+	margin-right: 1em;
+}
+
