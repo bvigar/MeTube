@@ -1,5 +1,5 @@
 <?php
-	require_once('/var/www/spring13/u2/include/defs.php.inc');
+	require_once(SERVER_ROOT . '/include/defs.php.inc');
 	require_once(SERVER_ROOT . '/include/db.php');
 	include(SERVER_ROOT . '/views/header.php');
 

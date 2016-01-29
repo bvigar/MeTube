@@ -3,9 +3,9 @@
 class DB{
 	/* Configuration for your database */
 	const server = 'localhost';
-	const username = 'u2';
-	const password = 'u2';
-	const database = 'u2';
+	const username = 'username';
+	const password = 'password';
+	const database = 'MeTube';
 
 	var $conn;
 	var $result;

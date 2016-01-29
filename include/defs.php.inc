@@ -4,10 +4,10 @@
 	/*		GLOBAL DEFINES		*/
 	/*								*/
 	/************************/
-	define('SERVER_ROOT', '/var/www/spring13/u2/');
-	define('SITE_ROOT', 'http://mmlab.cs.clemson.edu/spring13/u2/');
-	define('ROOT_USER_DIR', '/var/www/spring13/u2/users/');
-	define('GENERIC_VIDEO_IMAGE', '/var/www/spring13/u2/images/generic_video.png');
+	define('SERVER_ROOT', '/var/www/webapps');
+	define('SITE_ROOT', 'http://localhost/webapps/');
+	define('ROOT_USER_DIR', '/var/www/webapps/users/');
+	define('GENERIC_VIDEO_IMAGE', '/var/www/webapps/images/generic_video.png');
 
 	define('FILE_ALREADY_EXISTS', 1);
 	define('FILE_SIZE_TOO_LARGE', 2);
